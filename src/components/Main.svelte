@@ -4,7 +4,7 @@
     let benefits =[
         {name:'Master of IT Student', description:'Currently studying Master of IT, Computing at the University of Melbourne'},
         {name:'Data Product Consultant', description:'I have a year of work experience as a Data Consultant in a Software Engineering team.'},
-        {name:'', description:''},
+        {name:'Front-end developer', description:'I currently volunteer as a front end developer for a student initiative project, building an application that automates clinical consultation transcription.'},
     ]
 
     let steps=[
