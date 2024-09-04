@@ -38,7 +38,7 @@
                         </h7>
                         <br><br>
                         I studied Chemistry with Molecular Physics at Imperial College London.
-                        Realising that scientific research was not the right fit for me, I joined Kubrick Group as a data consultant upon graduating.
+                        Realising that scientific research was not the right fit for me, I then joined Kubrick Group as a data consultant upon graduating.
                         <br> 
                         <br>
                         During my work as a consultant, I was placed as a technical business analyst at AstraZeneca within a software engineering team. 
