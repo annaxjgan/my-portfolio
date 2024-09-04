@@ -22,9 +22,9 @@
             </p>
         </div>
 
-        <section id="about" class="grid grid-cols-1 top-20 lg:grid-cols-3 gap-10 py-8 sm:py-14 items-center justify-center gap-24 lg:h-auto min-h-screen">
+        <section id="about" class="grid grid-cols-1 top-20 lg:grid-cols-3 gap-10 py-8 sm:py-14 items-center justify-center gap-24 lg:h-auto min-h-screen fade-in">
             <div class="relative shadow-2xl grid place-items-center col-span-1">
-                <img src={"images/Profile picture.png"} alt="Profile Image" class="object-cover z-[2] max-h-[70vh]"/>
+                <img src="images/Profile picture.png" alt="Profile Image" class="object-cover z-[2] max-h-[70vh]" />
             </div>
             <div class="flex flex-col gap-6 md:gap-8 lg:gap-10 col-span-2">
                 <div>
