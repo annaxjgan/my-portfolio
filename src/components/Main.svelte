@@ -15,7 +15,7 @@
             </h2>
             <br/><br/>
             <h2 class="font-semibold text-2xl sm:text-3xl md:text-4xl">
-                I enjoy creating <span class="poppins"  style="color: #92d3f7;"> fun </span> stuff with <span class="poppins"  style="color: #92d3f7;"> Tech </span>
+                I enjoy creating <span class="poppins"  style="color: #92d3f7;"> fun </span> stuff with <span class="poppins"  style="color: #92d3f7;"> tech </span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 Passionate about <span class="poppins" style="color: #92d3f7">Software Development</span> and <span class="poppins" style="color: #92d3f7">Cloud Solutions</span>
