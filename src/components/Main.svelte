@@ -34,7 +34,7 @@
                         <br>
                         <br>
                         <h7 class="font-semibold">
-                            <span style="color: #92d3f7;" class="text-sm sm:text-lg md:text-xl">A little background...</span>
+                            <span style="color: #92d3f7;" class="text-sm sm:text-lg md:text-xl">A bit of background...</span>
                         </h7>
                         <br><br>
                         I studied Chemistry with Molecular Physics at Imperial College London.
