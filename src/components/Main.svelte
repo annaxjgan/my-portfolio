@@ -69,7 +69,7 @@
             </div>
             <div class="flex-1 min-w-[calc(50%-1.5rem)] h-[200px]">
                 <Step step={steps[1]}>
-                    <p>Friendship app is a mobile app that matches friends of the same interests.<br/>Built using: <strong style="color: #92d3f7;">Python, Java, Flask, Figma & AndroidStudio</strong></p>
+                    <p>A mobile app that matches friends of the same interests.<br/>Built using: <strong style="color: #92d3f7;">Python, Java, Flask, Figma & AndroidStudio</strong></p>
                 </Step>
             </div>
 
