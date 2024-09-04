@@ -9,7 +9,7 @@
 
 <main class="flex flex-col flex-1 p-4">
     <section id="introPage" class="g:grid-cols-2 gap-10 py-8 sm:py-14 flex flex-col ">
-        <div class="flex flex-col items-center justify-center text-center gap-6 md:gap-8 lg:gap-10 lg:h-auto min-h-screen">
+        <div class="flex flex-col items-center justify-center text-center gap-6 md:gap-8 lg:gap-10 min-h-screen">
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
                 Hi ! I'm <span class="poppins" style="color: #92d3f7;">Anna.</span> 
             </h2>
