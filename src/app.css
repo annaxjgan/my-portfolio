@@ -36,5 +36,5 @@ h3,
 
 .fade-in {
     opacity: 0;
-    animation: fadeIn 3s ease-out forwards;
+    animation: fadeIn 2s ease-out forwards;
 }
